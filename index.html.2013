@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	
+<title>Winchester and County Music Festival - Home page</title>
+<meta name="google-site-verification" content="yFWcMEU8EB3vyi4Vf-iX8ITUq4To8c4xiuApV9j06-c">
+<meta content="winchester romsey music festival choral hampshire uk" name="keywords">
+
+<link href="css/main.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+
+
+<table width="800" border="0">
+<tr>
+<td width="160" align="center">
+				<a href="indexold.html"><img src="images/logo1.jpg" width="160" alt="Winchester and County Music Festival" border="0"></a>
+				</td>
+	<td width="640" align="center">
+				<img src="images/title-text.jpg" alt="WCMF title"><br>
+                
+
+<span class="navside"><a href="about.html">ABOUT</a></span>
+<span class="navbars">&nbsp;|&nbsp;</span><span class="navside"><a href="concerts.html">CONCERTS</a></span>
+<span class="navbars">&nbsp;|&nbsp;</span><span class="navside"><a href="venues.html">VENUES</a></span>
+<span class="navbars">&nbsp;|&nbsp;</span><span class="navside"><a href="choirs.html">CHOIRS</a></span>
+<span class="navbars">&nbsp;|&nbsp;</span><span class="navside"><a href="links.html">LINKS</a></span>
+<span class="navbars">&nbsp;|&nbsp;</span><span class="navside"><a href="contact.html">CONTACT</a><br></span>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<hr class="hr-style">
+</td>
+</tr>
+
+<tr>
+<td colspan="2">&nbsp;
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" class="padding">
+				<p align="center"><span class="title2">Winchester and County Music Festival 2012-13</span></p>
+      <p class="text2">The first WCMF concerts took place in May-June 1922 combining Hampshire choirs which had participated in a competitive music festival.  Those performances included instrumental works with (Dame) Myra Hess playing a Beethoven piano concerto.  However, singing has remained at the heart of these activities and at one time over seventy choirs took part in the competitions, including ladies’ choirs, male-voice groups and school choirs.</p>
+<p class="text2">
+Now in the twenty-first century we have fewer festival choirs but all are expanding healthily in numbers and tackling impressive repertoire on their own as well as in the Abbey and Cathedral events.  New works and new combinations of choral items continue to challenge participants.  Each 
+season two groups of combined choirs attend three 2-hour rehearsals together ahead of the concert days.  They then meet in their imposing 
+venues with professional soloists and the Festival Orchestras.  In addition, 
+the Director of Music offers an afternoon 'Taster Session' to demonstrate the chosen repertoire before the combined rehearsals begin.  An annual vocal workshop or ‘Come and Sing’ event open to all seven constituent choirs and their friends takes place in each Autumn term.</p>
+<p class="text2">The new season begins with the Romsey programme under the baton of   Graham Kidd, director of two of the Festival choirs.  It features a   grand setting of the Magnificat by Carl Philipp Emanuel Bach composed   one year before the death of his famous father Johann Sebastian.  This   will be followed by the first of Beethoven's two Masses, the 1807 Mass   in C, commissioned by Prince Esterhazy, the patron of Beethoven's former   teacher Haydn.  Both works feature solo vocal quartets and a full   Classical orchestra. </p>
+<p class="text2">Later in the nineteenth century Mendelssohn, the   great promoter of Johann Sebastian Bach, produced his dramatic oratorio   Elijah (first performed in Birmingham in 1846).  This work of operatic   proportions and character will be the second concert to be directed in   Winchester Cathedral by the Festival's Music Director, Derek Beck.</p>
+			
+</tr>
+
+<tr>
+<td colspan="2">
+<table width="790" border="0">
+<tr>
+<td width="490" class="padding">
+			<p><span class="text2">The programme for 2012-13 is shown below:</span></p>
+<p>
+<!--Sunday, 14 October 2012, 2.00 pm        United Church, Jewry Street,
+WINCHESTER
+
+VOCAL WORKSHOP led by DEBORAH MILES-JOHNSON (BBC Chorus & Philharmonia
+Chorus)
+
+Information & tickets (£10)  -  see CONTACTS PAGE -->
+            <span class="text"><a href="concerts.html">Vocal Workshop - Sunday, 14 October 2012</a></span>
+<p class="text2">United Church, Jewry Street, Winchester<br>
+  led by Deborah Miles-Johnson (BBC Chorus & Philharmonia
+  Chorus)</p>
+<p class="text2"><span class="text"><a href="concerts.html"><span class="hyperlink">Romsey Abbey -  Saturday 11th May 2013</span></a></span></p>
+<p><span class="text2">C.P.E. Bach: Magnificat
+  <br>
+    Beethoven: Mass in C </span>             
+</p>
+    <p class="text2">Click <a href="/2013/2013romseyreview.html">here</a> for a review of this concert
+    </p>
+<p>
+				  <span class="text"><a href="concerts.html"><span class="hyperlink">Winchester Cathedral - Saturday 18th May 2013</span></a></span></p>
+<p>
+  <span class="text2">Mendelssohn: Elijah<br>
+    
+  </span></p>
+      <p class="text2">Click <a href="/2013/2013winchesterreview.html">here</a> for a review of this concert
+    </p>
+				  
+				  
+		    </p>
+
+				  
+				  
+		  </td>
+<td>
+<img src="images/winch-romsey.jpg" width ="300" height="204"alt="Picture of Winchester and Romsey">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<hr class="hr-style">
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+&nbsp;<span class="footer">Last updated: 2013-06-20
+/ Contact the <a href="mailto:webmaster@wcmf.info"><span class="hyperlink">webmaster</span></a></span>
+</td>
+</tr>
+
+</table>
+
+</body>
+</html>
