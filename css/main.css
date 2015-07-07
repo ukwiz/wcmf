@@ -22,6 +22,9 @@ a:hover {
 a:active {
 	text-decoration: none;
 }
+.align-top {
+	vertical-align: top;
+}
 .bgcolor {
 	background-color: #000000
 }
