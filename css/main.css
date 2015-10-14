@@ -6,6 +6,8 @@ body, td, th {
 body {
 	background-image: url("/images/background2.jpg");
     color: #1F205B;
+    width: 90%;
+    margin: 0px auto;
 }
 a:link {
 	color: #1F205B;
